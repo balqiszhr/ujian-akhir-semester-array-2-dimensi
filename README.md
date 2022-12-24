@@ -1,6 +1,6 @@
 # Ujian Akhir Semester
 <br> Mata Kuliah : Dasar Pemrograman
-<br> Nama        : Balqis Salabillah Azzahra
+<br> Nama        : Balqis Salsabillah Azzahra
 <br> NIM         : 1227050028
 <br> Jurusan     : [Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
